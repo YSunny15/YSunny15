@@ -45,7 +45,13 @@ Hey!! I'm Sunny Yadav, a Android Developer (Flutter) 👨‍💻, Frontend Web D
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</br>
 
-<a href="mailto:sunnyyadavtheone@gmail.com">
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-yadav-849127209)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/y.__sunny/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/YSunny_15)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-E8175D?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.ca/yamitaichou)
+<!-- <a href="mailto:sunnyyadavtheone@gmail.com">
  <img align="left" alt="Gmail" width="85" hight="85" src="https://github.com/YSunny15/YSunny15/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://instagram.com/y.__sunny?igshid=YmMyMTA2M2Y=">
@@ -59,5 +65,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br></br></br></br></br>
 <a href="https://steamcommunity.com/profiles/76561199038192253/">
   <img align="left" alt="Steam" width="150" hight="90" src="https://github.com/YSunny15/YSunny15/blob/main/assets/icons/steam.png" />
-</a>
+</a> -->
  </p>
