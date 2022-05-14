@@ -52,11 +52,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="instagram" width="80" hight="80" src="https://github.com/YSunny15/YSunny15/blob/main/assets/icons/instagram.png" />
 </a>
 
-</br>
+
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
   <img align="left" alt="Linkedin" width="90" hight="90" src="https://github.com/YSunny15/YSunny15/blob/main/assets/icons/Linkedin.jpg" />
 </a>
-
+</br></br></br></br></br>
 <a href="https://steamcommunity.com/profiles/76561199038192253/">
   <img align="left" alt="Steam" width="150" hight="90" src="https://github.com/YSunny15/YSunny15/blob/main/assets/icons/steam.png" />
 </a>
